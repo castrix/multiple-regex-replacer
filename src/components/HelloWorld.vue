@@ -1,10 +1,5 @@
 <template>
   <h1>{{ msg }}</h1>
-  <button @click="increment">count: {{ count }}</button>
-  <p>
-    Edit <code>components/HelloWorld.vue</code> to test hot module
-    <span :class="$style.re">replacement</span>.
-  </p>
 </template>
 
 <script lang="ts">

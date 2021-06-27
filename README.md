@@ -1,14 +1,5 @@
-# Vite boilerplate Plus
+# Multiple Regex Replacer with Vue 3 + Vite + Tailwind
 
-[Vite boilerplate](https://github.com/sapphi-red/vite-boilerplate) with Vue Router & Vuex.
+purpose: to help replacing string with multiple regex pattern
 
-Vite boilerplate with
-- Vue 3
-- Vue Router 4
-- Vuex 4 + direct-vuex
-- TypeScript
-- SCSS
-- CSS Modules
-- Autoprefixer
-- ESLint
-- Prettier
+example: API response to Typescript interface
