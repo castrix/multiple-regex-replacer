@@ -3,3 +3,5 @@
 purpose: to help replacing string with multiple regex pattern
 
 example: API response to Typescript interface
+
+https://castrix.github.io/multiple-regex-replacer
